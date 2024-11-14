@@ -29,7 +29,7 @@ This Personal Expense Tracker is a web application that allows users to manage t
 1. **Clone the Repository**
 
    - git clone https://github.com/reema-15/personal-expense-tracker.git
-     cd personal-expense-tracker
+   - cd personal-expense-tracker
 
 2. **Install Dependencies**
 
@@ -41,7 +41,7 @@ This Personal Expense Tracker is a web application that allows users to manage t
 
 4. **Access the Application**
 
-- Open your browser and go to `http://localhost:3000`
+  - Open your browser and go to `http://localhost:3000`
 
 ## Usage Guide
 
