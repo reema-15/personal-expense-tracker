@@ -24,6 +24,10 @@ This Personal Expense Tracker is a web application that allows users to manage t
 - React Router (for navigation)
 - Local Storage (for data persistence)
 
+## Requirements
+- Node.js (version 14.x or later)
+- npm (comes bundled with Node.js)
+
 ## Setup Instructions
 
 1. **Clone the Repository**
@@ -41,7 +45,7 @@ This Personal Expense Tracker is a web application that allows users to manage t
 
 4. **Access the Application**
 
-  - Open your browser and go to `http://localhost:3000`
+   - Open your browser and go to `http://localhost:3000`
 
 ## Usage Guide
 
